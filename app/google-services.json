@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "95795016419",
+    "firebase_url": "https://f2com-ad129-default-rtdb.firebaseio.com",
+    "project_id": "f2com-ad129",
+    "storage_bucket": "f2com-ad129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95795016419:android:1b5e7ed273e338ef840bd6",
+        "android_client_info": {
+          "package_name": "com.example.f2c"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95795016419-3fgmmf2a73dqnbig5q9qsmor2o6j94jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA53P7lepxQ5Diphipf7giAWiYZ1SheWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95795016419-3fgmmf2a73dqnbig5q9qsmor2o6j94jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95795016419:android:895225908039d095840bd6",
+        "android_client_info": {
+          "package_name": "com.example.f2cadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95795016419-3fgmmf2a73dqnbig5q9qsmor2o6j94jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA53P7lepxQ5Diphipf7giAWiYZ1SheWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95795016419-3fgmmf2a73dqnbig5q9qsmor2o6j94jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95795016419:android:e15ce06870ad2b94840bd6",
+        "android_client_info": {
+          "package_name": "kushwanth.app.f2cadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95795016419-3fgmmf2a73dqnbig5q9qsmor2o6j94jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA53P7lepxQ5Diphipf7giAWiYZ1SheWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95795016419-3fgmmf2a73dqnbig5q9qsmor2o6j94jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
